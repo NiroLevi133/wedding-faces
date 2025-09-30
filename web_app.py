@@ -4,6 +4,20 @@ import numpy as np
 import pickle, os, time, zipfile
 from io import BytesIO
 from PIL import Image
+import os, json
+
+# אם יש Environment Variable עם ה־JSON
+if "GOOGLE_CREDENTIALS_JSON" in os.environ:
+    creds_json = os.environ["GOOGLE_CREDENTIALS_JSON"]
+    creds_dict = json.loads(creds_json)
+
+    # ניצור קובץ זמני מה־JSON
+    with open("credentials.json", "w") as f:
+        json.dump(creds_dict, f)
+
+    # נגדיר ל־Google SDK לעבוד עם הקובץ הזה
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "credentials.json"
+
 
 # === קונפיג עיצובי ===
 st.set_page_config(page_title="אלבום החתונה 🎉", layout="wide")
