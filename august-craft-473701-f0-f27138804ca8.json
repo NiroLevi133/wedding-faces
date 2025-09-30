@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "august-craft-473701-f0",
+  "private_key_id": "f27138804ca83f2a3f098acb97641a83b8d31823",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqGpI3sKphuzoR\nW15V+z67jhUXFf6RpKoTBBb2kpcnDZewiUMyj4ANRFbKYR8zKGjE6WDi3d0+STSC\nUNoyQihgmcdnyU76uqlWbDUcWCkyCvUEZeMLvey4ibypW4HV7DZuQK0RFkBmFmBe\nQBG1VfS/COHbBUDgUMmeMEV8eP26/jL+GcqHB9YI8O9ElCs6nIwCef3lgTSCrIZl\n5SJOCB0Y6IdUh1yPjQWER8MfWxHECRCyJV3HJ4HHoLrBvEQi3LmEVoQI11Uw37X/\nwGGuqSTSAOSbCAJw4V1+r4DAgKmVetKx13hrTvA1C1lMG00AdXD0uTCZjHgWg2jF\nD1824ghBAgMBAAECggEAAc9LD3MeePA2P7GGaSlFY1bxY/+8p92F3rJsMR7ho016\nd+sZ7yuGK/32Y2xRmeh75t5pxLgiDrPWLm3ASIkaJ17zd2f1ombCfvQjQ4QvmgPy\nU+PmnL0eS99RRcb+tGExOg6PmM8xC7UAvPf3CEQcGL02M++UH17Uqk1uq9KYtnjR\n7lqxXl9xxy6+cnzuN4ywAH2RxWIWWcb2iqHjOexSRvpi937qyfvBUpyTtpd5PgIk\nKgThn+U8djQ8ryGBq7XVgvOqVEt0tbkfNbf/63Y7MSJgjBCAIZIiXr6J4lldSaSS\nCJ3u9v2md4FQU1HSaXM3UdP1uUANsE4u9pi3vdmRwQKBgQDW3dG71eTupRs7I4qB\nYFbMgdv+wN+sAhtgBEFacBS86AgQk3ZU3lRPSvZShlfGF1g3LHbsYmPUUux4TY4w\nzaDNCwGXt0lnJYyIstHCbXx7gcNsr8dLY44ZvnaAZdJEf8Pag7FCTVIjHp29iDij\nvDiHDUwiwlhnezFxDvkCzz1p0QKBgQDKqwVtq2wYolXLLL1nOJMy/+cOfUJyEEkR\n+Bu1lCJ7V6S6uKofIpCgD1DFEtcdPGI2/xoPE9uA3kfOTBcEeawxNfw+TQs4a2Xt\nMsl9CAayLLE9YQA1DWlQ1FumiKsKTXub3QULpYSSpxOgH0DX+qr2MAU4uIktBXm0\nmjVx81LjcQKBgQCLJ6XJjMFzfSKhrmbpW0dbs06TMr6pW8P270qUE7qajXuLoLUm\nScc4g0f8Ml1uQXg0Y2uxtBcLT5kuYKwSF1po8RPa+i1jzAG0Fnua++V+5491OHJN\n9O/25E9C4K7JBiYFwvxuAD2N2So3sZ1dDW1eqdIBQPSYMETY/+VtWGJhwQKBgDLt\nDowkSyFViWFoeJ97Y+Go1BKb/xpSZUoSokPaWV/NAiO5S2ZPdTADKTScK1m5VqSj\nLZUkVD/pmvmHvTDusgobmqq9CVjAA/i6jk7QuX4EJPVbboXmPNSGyBDsvq30El90\nBlSK3ulK+m996vlaj6MVJfq+xBmACrkLFurvTaDBAoGAcMbHnEP0dNsd4Xx1MqFj\nSBcuk4ulqwzicCZOn2bbsLjNbB+1EMjyMa0FQBzbo+aPLwJCJzswp4OFMlLs0AhN\nH/5n27TmD31WTWcVXzqO6bNcU+JsPHWoeJZnhBLbODhlMEA/e+JMB2AoHZd6ROA7\nAdd7FWYa3mOlQGO5LDisehI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wedding-api@august-craft-473701-f0.iam.gserviceaccount.com",
+  "client_id": "104028678458976263542",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wedding-api%40august-craft-473701-f0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
